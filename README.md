@@ -28,21 +28,8 @@ A simple quiz game built using Python
 
 #### If you like it, do not forget to give your feedback of this repository!
 
-### Contributors
+# Contributors
 
-```
-    Diya Nag Chaudhury
-    Amitrajit Bose
-    David John Coleman II
-    Ryan J. Wilson
-    Candace H-V
-    Souvik Mondal
-    Prem Mali
-    Aayush Sarkar
-    Raghav Khullar
-    Pasan Jayawickrama
-    Linda Oglesbee
-    Kamuish
-    chanchalv18
-    dvfleet413
+#vijay Rawat
+#Sunny Hooda
 ```
